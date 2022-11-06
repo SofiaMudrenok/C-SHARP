@@ -104,7 +104,7 @@ namespace ConsoleApp5
 
             foreach (var item in task)
             {
-                Console.WriteLine($"{item.Key}, quantity: {item.Value}");
+                Console.WriteLine($"Volume is: {item.Key}, from {item.Value} country.");
             }
             Console.WriteLine();
         }
