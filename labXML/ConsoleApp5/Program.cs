@@ -87,24 +87,24 @@ namespace ConsoleApp5
             goods.Add("Blender", "Mexica", 200);
             goods.CreatePO(fileName);
 
-            Goods toys2 = new Goods();
-            toys2.ReadPO(fileName);
+            Goods goods2 = new Goods();
+            goods2.ReadPO(fileName);
 
-            toys2.Delete();
+            goods2.Delete();
 
-            foreach (Ware toy in toys2.ware)
+            foreach (Ware ware in goods2.ware)
             {
-                Console.WriteLine(toy.ToString());
+                Console.WriteLine(ware.ToString());
             }
             Console.WriteLine();
 
             var task = goods.ware
-                .GroupBy(group => $"{group.quantity}")
-                .Select(item => new { item.Key, Value = item.Count() });
+            .GroupBy(group => group.quantity, group => group.country)
+            .Select(item => new { item.Key, Value = item.Count() });
 
             foreach (var item in task)
             {
-                Console.WriteLine($"Age: {item.Key}, number o toys: {item.Value}");
+                Console.WriteLine($"{item.Key}, quantity: {item.Value}");
             }
             Console.WriteLine();
         }
