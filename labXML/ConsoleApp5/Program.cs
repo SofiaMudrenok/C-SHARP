@@ -72,7 +72,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            string fileName = @"C:\Users\Sonya\source\repos\ConsoleApp4\ConsoleApp4";
+            string fileName = @"C:\Users\Sonya\source\repos\ConsoleApp4\ConsoleApp4\XMLFile1.xml";
 
             Goods goods = new Goods();
             goods.Add("Xiomi", "China", 10000);
