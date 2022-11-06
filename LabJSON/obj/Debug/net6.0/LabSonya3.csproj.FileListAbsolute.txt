@@ -1,0 +1,15 @@
+C:\Users\Vyacheslav\source\repos\LabSonya3\bin\Debug\net6.0\LabSonya3.exe
+C:\Users\Vyacheslav\source\repos\LabSonya3\bin\Debug\net6.0\LabSonya3.deps.json
+C:\Users\Vyacheslav\source\repos\LabSonya3\bin\Debug\net6.0\LabSonya3.runtimeconfig.json
+C:\Users\Vyacheslav\source\repos\LabSonya3\bin\Debug\net6.0\LabSonya3.dll
+C:\Users\Vyacheslav\source\repos\LabSonya3\bin\Debug\net6.0\LabSonya3.pdb
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\LabSonya3.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\LabSonya3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\LabSonya3.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\LabSonya3.AssemblyInfo.cs
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\LabSonya3.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\LabSonya3.dll
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\refint\LabSonya3.dll
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\LabSonya3.pdb
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\LabSonya3.genruntimeconfig.cache
+C:\Users\Vyacheslav\source\repos\LabSonya3\obj\Debug\net6.0\ref\LabSonya3.dll
